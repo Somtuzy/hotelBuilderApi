@@ -1,7 +1,0 @@
-# Ignore files
-src/db/.env
-src/package.json
-src/package-lock.json
-
-# Ignore directories
-src/node_modules
